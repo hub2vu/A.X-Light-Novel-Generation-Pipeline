@@ -19,3 +19,24 @@ cd ax-light-novel-pipeline
 pip install -r requirements.txt
 
 ---
+
+## License
+
+### Code
+- 본 저장소의 **코드**는 [MIT License](LICENSE)를 따릅니다.
+
+### Models
+- **A.X Light** (skt/A.X-4.0-Light)  
+  - License: CC BY-NC 4.0 (비영리적 사용만 가능)  
+  - 출처: [Hugging Face - skt/A.X-4.0-Light](https://huggingface.co/skt/A.X-4.0-Light)
+
+- **ko-sroberta-multitask** (jhgan/ko-sroberta-multitask)  
+  - License: Apache License 2.0 (상업적 사용 가능, 저작권 표시 필요)  
+  - 출처: [Hugging Face - jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-sroberta-multitask)
+
+---
+
+## Notice
+- 모델 가중치는 이 저장소에 포함되지 않으며, Hugging Face에서 직접 다운로드해야 합니다.
+- 각 모델의 라이선스 조건을 반드시 준수해야 하며,  
+  특히 **A.X Light** 모델은 상업적 사용이 금지됩니다.

@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ---
 
 ## Info
-
+```bash
 ├── LORA_train_module			LORA학습 모듈
 │   ├── A.X_QLORA_3.py			QLORA학습
 │   └── continue_A.X_QLORA.py	QLORA점진학습		
@@ -113,3 +113,4 @@ pip install -r requirements.txt
 // 텍스트
 ├── new_story_edited.txt					최신화
 
+```

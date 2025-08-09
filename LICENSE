@@ -18,3 +18,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+# External Model Licenses
+
+This project uses the following external models:
+
+1. A.X Light (skt/A.X-4.0-Light)
+   - License: CC BY-NC 4.0 (Non-commercial use only)
+   - Source: https://huggingface.co/skt/A.X-4.0-Light
+
+2. ko-sroberta-multitask (jhgan/ko-sroberta-multitask)
+   - License: Apache License 2.0
+   - Source: https://huggingface.co/jhgan/ko-sroberta-multitask

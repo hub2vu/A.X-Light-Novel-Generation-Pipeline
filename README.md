@@ -14,6 +14,8 @@
 
 ## Installation
 ```bash
-git clone https://github.com/[YourGitHubID]/ax-light-novel-pipeline.git
+git clone https://github.com/hub2vu/ax-light-novel-pipeline.git
 cd ax-light-novel-pipeline
 pip install -r requirements.txt
+
+---

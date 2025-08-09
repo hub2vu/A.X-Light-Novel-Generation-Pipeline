@@ -12,14 +12,6 @@
 
 ---
 
-## Installation
-```bash
-git clone https://github.com/hub2vu/ax-light-novel-pipeline.git
-cd ax-light-novel-pipeline
-pip install -r requirements.txt
-
----
-
 ## License
 
 ### Code
@@ -40,3 +32,11 @@ pip install -r requirements.txt
 - 모델 가중치는 이 저장소에 포함되지 않으며, Hugging Face에서 직접 다운로드해야 합니다.
 - 각 모델의 라이선스 조건을 반드시 준수해야 하며,  
   특히 **A.X Light** 모델은 상업적 사용이 금지됩니다.
+
+---
+
+## Installation
+```bash
+git clone https://github.com/hub2vu/ax-light-novel-pipeline.git
+cd ax-light-novel-pipeline
+pip install -r requirements.txt

@@ -41,6 +41,7 @@ git clone https://github.com/hub2vu/ax-light-novel-pipeline.git
 cd ax-light-novel-pipeline
 pip install -r requirements.txt
 
+```
 ---
 
 ## RUN
@@ -111,3 +112,4 @@ pip install -r requirements.txt
 
 // 텍스트
 ├── new_story_edited.txt					최신화
+

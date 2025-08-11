@@ -7,7 +7,7 @@
 ## Acknowledgement
 This project was supported by the Research Fund of the Sogang University LINC+ Program (University Innovation Support Project).
 
-본 프로젝트는 서강대학교 대학혁신사업단(대학혁신지원사업)의 연구비 지원을 받아 수행되었습니다.
+본 프로젝트는 AI+인문융합 LAB(탐구공동체) 프로그램의 결과물로, 서강대학교 대학혁신사업단(대학혁신지원사업)의 연구비 지원을 받아 수행되었습니다.
 
 ---
 
@@ -121,5 +121,6 @@ pip install -r requirements.txt
 ├── new_story_edited.txt					최신화
 
 ```
+
 
 
